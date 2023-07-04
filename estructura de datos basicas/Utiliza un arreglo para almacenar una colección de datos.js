@@ -1,0 +1,1 @@
+let yourArray= ['portal','halfLife',3,false,':c']; // Cambia esta línea
